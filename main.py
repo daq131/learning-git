@@ -1,1 +1,1 @@
-print('hello')
+print('not hello to all migraciones workers')
